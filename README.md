@@ -16,6 +16,7 @@ Instrumenting libraries:
 - https://github.com/armon/go-metrics - Backend agnostic library for golang, good labels support for easy Prometheus integration
 - https://github.com/rcrowley/go-metrics - Another backend agnostic library, more features, but no labels support
 - https://github.com/prometheus/client_golang - Prometheus client, exporting gathered metrics to prometheus.
+- https://github.com/prometheus/blackbox_exporter - prometheus extension to get metrics from uninstrumented sources
 
 
 Graphing:
