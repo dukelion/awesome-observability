@@ -31,5 +31,8 @@ Metrics storage:
 - https://github.com/Percona-Lab/PromHouse
 - https://www.influxdata.com/
 
+Logs:
+https://github.com/grafana/loki - Prometheus inspired log storage
+
 Useful guides:
 - https://timber.io/blog/promql-for-humans/
